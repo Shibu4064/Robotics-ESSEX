@@ -1,0 +1,1 @@
+# Four tasks have been completed here, including PID controller following the right edge, Right Edge Following Fuzzy Logic, Obstacle Avoidance Fuzzy Logic, and a combination of both using subsumption behavior.
